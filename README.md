@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Abdenasser/Abdenasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><a href="https://www.twitter.com/__abdenasser"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abdenasser"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@__abdenasser"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+
+### Hi there 👋
+
+I’m Abdenasser Elidrissi, a Software Engineer from Morocco, I love coffee and computers and I am passionate about bringing ideas to life.
+I’m a Senior Backend Engineer working at [Obytes](https://obytes.com) during the day, and an indie maker by night.
+I'm the creator and Maintainer of [dr_scaffold](https://github.com/Abdenasser/dr_scaffold) which is an open source project that helps Django developers to create fully functioning REST APIs in seconds.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdenasser&show_icons=true&title_color=24292E&text_color=24292E&icon_color=0A6AD3)
