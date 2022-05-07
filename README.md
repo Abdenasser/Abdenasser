@@ -21,4 +21,4 @@ I’m Abdenasser Elidrissi, a Software Engineer from Morocco, I love coffee and 
 I’m a Senior Backend Engineer during the day (at [Obytes](https://obytes.com)), and an indie maker by night.
 I'm the creator and Maintainer of [dr_scaffold](https://github.com/Abdenasser/dr_scaffold) which is an open source project that helps Django developers to create fully functioning REST APIs in seconds.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdenasser&show_icons=true&title_color=24292E&text_color=24292E&icon_color=0A6AD3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdenasser&show_icons=true&title_color=24292E&text_color=24292E&icon_color=0A6AD3&count_private=true)
