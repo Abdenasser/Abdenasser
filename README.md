@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I’m Abdenasser Elidrissi, a Software Engineer from Morocco, I love coffee and computers and I am passionate about bringing ideas to life.
-I’m a Senior Backend Engineer during the day (at [Obytes](https://obytes.com)), and an indie maker by night.
+I’m a Senior Backend Engineer during the day, and an indie maker by night.
